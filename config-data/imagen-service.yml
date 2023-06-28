@@ -13,7 +13,7 @@ spring:
         generate-ddl: true
     datasource:
         driverClassName: com.mysql.cj.jdbc.Driver
-        url: jdbc:mysql://localhost:3308/imagen
+        url: jdbc:mysql://localhost:3306/imagen
         username: root
         password:
 eureka:

@@ -7,10 +7,10 @@ spring:
     config:
         server:
             git: 
-              uri: https://github.com/Dan-Elioth/FBakend-Distribuidas.git
+              uri: https://github.com/Frank8040/microservicios_2023_1.git
               search-paths: config-data
-              username: Dan
-              password: 123
+              username: Frank8040
+              password: frankchunca.77298040
               default-label: main
   security:
     user:
